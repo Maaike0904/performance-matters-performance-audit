@@ -8,6 +8,10 @@ Doe een Performance Audit test op een bestaande website en rapporteer daar over.
 Ik heb de website van [Pinterest](https://www.pinterest.ca/) getest op **19 april 2023** .
 <img width="1438" alt="Scherm­afbeelding 2023-04-20 om 22 32 29" src="https://user-images.githubusercontent.com/112861144/233481317-0cdff09c-50d6-47f6-b385-76bbd17c757f.png">
 
+Pinterest is een visuele zoekmachine voor het vinden van ideeën zoals recepten, huis en stijl inspiratie en meer.
+
+Met miljarden pins op Pinterest is er altijd wel iets waarmee je inspiratie kunt opdoen. Pins die je leuk vindt, kun je op je verschillende borden bewaren zodat je alles gemakkelijk kunt terugvinden. Je kunt ook zelf pins maken om je ideeën met andere mensen op Pinterest te delen.
+
 ## Audit-test 🔭
 Voor deze opdracht heb ik de website van Pinterest getest op performance. Eerst heb ik een audit gedaan en daarna heb ik bekeken hoe de performance beter zou kunnen werken. Dit heb ik gedocumenteerd in de Wiki van deze deeltaak. Ik heb hierbij gekeken naar de testresultaten van de mobiele website en naar de desktop website.
 
