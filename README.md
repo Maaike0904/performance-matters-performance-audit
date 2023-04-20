@@ -15,7 +15,7 @@ Voor deze opdracht heb ik de website van Pinterest getest op performance. Eerst 
 <img width="1025" alt="Scherm­afbeelding 2023-04-19 om 13 35 42" src="https://user-images.githubusercontent.com/112861144/233481758-bebbcc35-9745-4169-9c14-f1716374e8e9.png">
 
 ## Samenvatting 📄
-De prestaties zijn op de mobiele website slechter dan die van de desktop. De punten waar de mobiele website niet goed op scoren zijn: 
+De prestaties zijn op de mobiele website slechter dan die van de desktop. De punten waar de mobiele website niet goed op scoort zijn: 
 * Largest Contentful Paint (LCP)
 * Cumulative Layout Shift (CLS)
 * First Contentful Paint (FCP)
