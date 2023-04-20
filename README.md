@@ -14,7 +14,7 @@ Voor deze opdracht heb ik de website van Pinterest getest op performance. Eerst 
 <img width="1036" alt="Scherm­afbeelding 2023-04-19 om 13 27 39" src="https://user-images.githubusercontent.com/112861144/233481750-fdd665d9-5258-4b28-9f2d-377ad2ca1584.png">
 <img width="1025" alt="Scherm­afbeelding 2023-04-19 om 13 35 42" src="https://user-images.githubusercontent.com/112861144/233481758-bebbcc35-9745-4169-9c14-f1716374e8e9.png">
 
-## Samenvatting :note: 
+## Samenvatting 📄
 
 
 
